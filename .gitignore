@@ -1,0 +1,10 @@
+# Video files — not needed (hero is served from YouTube)
+assets/hero.mp4
+assets/raw/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
