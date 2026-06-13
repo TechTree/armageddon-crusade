@@ -4,6 +4,9 @@ assets/hero_hq.mp4
 assets/raw/
 _deploy.bat
 
+# Book reference photos — source material only, not served by the site
+assets/book/
+
 # OS
 .DS_Store
 Thumbs.db
