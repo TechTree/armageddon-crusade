@@ -7,6 +7,11 @@ _deploy.bat
 # Book reference photos — source material only, not served by the site
 assets/book/
 
+# Local helper tools (not part of the site)
+map-calibrator.html
+coastline-tracer.html
+map-tool.html
+
 # OS
 .DS_Store
 Thumbs.db
